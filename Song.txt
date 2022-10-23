@@ -1,10 +1,5 @@
 hello
 it's me
+
 This whole city 
 must be purged!
-
-main branch
-
-Feature branch
-
-for tag only
